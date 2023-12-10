@@ -10,25 +10,16 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../../../Documents/opencv/build/java/opencv-480.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/opencv-480.jar!/" />
         </CLASSES>
         <JAVADOC />
         <NATIVE>
-          <root url="file://$MODULE_DIR$/../../../../Documents/opencv/build/java/x64" />
+          <root url="file://$MODULE_DIR$/lib/x64" />
         </NATIVE>
         <SOURCES>
-          <root url="jar://$MODULE_DIR$/../../../../Documents/opencv/build/java/opencv-480.jar!/" />
-          <root url="jar://$MODULE_DIR$/../../../../Documents/opencv/build/java/opencv-480.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/opencv-480.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/opencv-480.jar!/" />
         </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../../../Documents/jar_files/tess4j-5.9.0.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
       </library>
     </orderEntry>
   </component>

@@ -10,13 +10,13 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         while (true) {
-            System.out.println("1. Face Detection");
+            System.out.println("1. Face Detectiodddn");
             System.out.println("2. Eyes Detection");
             System.out.println("3. Edge Detection");
             System.out.println("4. Image WaterMarking");
             System.out.println("5. Exit");
             System.out.print("Choose an option: ");
-
+    
             int choice = scanner.nextInt();
 
             try {
